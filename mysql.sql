@@ -1,0 +1,1 @@
+INSERT INTO authors (id, name) VALUES (12, 'НВО');                                                                                                                                                                                                                                                                                        
